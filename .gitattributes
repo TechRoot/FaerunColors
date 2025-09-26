@@ -1,0 +1,22 @@
+# Texto (normaliza LF)
+*.txt text=auto eol=lf
+*.xml text eol=lf
+*.lsx text eol=lf
+*.colors text eol=lf
+*.stats text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.md text eol=lf
+
+# Binarios (sin diff)
+*.lsf binary
+*.lsb binary
+*.lsv binary
+*.pak binary
+*.gr2 binary
+*.wem binary
+*.bnk binary
+*.usm binary
+*.dds binary
+*.png binary
+*.jpg binary
