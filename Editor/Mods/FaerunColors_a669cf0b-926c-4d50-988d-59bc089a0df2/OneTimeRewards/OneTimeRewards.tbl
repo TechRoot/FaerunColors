@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="951f7f7e-76f6-4ec5-96a7-61312b04e58c">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1e0994b7-9354-4277-8e0f-64b02a358053" />
+        <field name="ItemTemplateId" type="FixedStringTableFieldDefinition" value="e41ea202-c15c-44f1-8cc1-25dca201cbe4" />
+        <field name="Amount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Note About FaerunColors location." />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
