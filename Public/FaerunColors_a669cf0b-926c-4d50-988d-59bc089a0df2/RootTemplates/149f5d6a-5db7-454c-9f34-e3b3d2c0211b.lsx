@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="149f5d6a-5db7-454c-9f34-e3b3d2c0211b" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Bronnal" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h13846c17g0e33g2d21g889dg33a303f96548" version="2" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Bronnal" />
+					<attribute id="Description" type="TranslatedString" handle="hb3847c50g5b7ag0f08g3beagc9b4b8d02b18" version="2" />
+					<attribute id="MaterialPreset" type="guid" value="b6a9c435-40ed-331d-d378-bbcc7bd3d8fd" />
+					<attribute id="ColorPreset" type="guid" value="b6a9c435-40ed-331d-d378-bbcc7bd3d8fd" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

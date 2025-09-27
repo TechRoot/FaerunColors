@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="38981ae3-add3-4e75-aec9-4a9158e8a4ab" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Nox" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h6fd61b46g20d1g7c1cg2376gb5bae58194f4" version="3" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Nox" />
+					<attribute id="Description" type="TranslatedString" handle="h4b711f7ag6374g170dg6baegad3a9a3b3788" version="3" />
+					<attribute id="MaterialPreset" type="guid" value="7767870b-add8-9e8e-68c0-615390bf9c51" />
+					<attribute id="ColorPreset" type="guid" value="e097eb0a-5ffc-b665-906e-ca8b5f4b7fd7" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

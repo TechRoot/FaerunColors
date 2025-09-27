@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="d8dff587-ddb7-4acb-80a7-26ae15b7962f" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Vhaeraun" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h800eb897g0857g0930g29e2g950fd5a632cd" version="5" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Vhaeraun" />
+					<attribute id="Description" type="TranslatedString" handle="ha7fb23e2gf88dg9a1cg5e0bg04ddbfbe3115" version="5" />
+					<attribute id="MaterialPreset" type="guid" value="ca3bedff-9e07-f863-36b4-69a507565b66" />
+					<attribute id="ColorPreset" type="guid" value="ca3bedff-9e07-f863-36b4-69a507565b66" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="ab7370a2-0532-46fb-be98-e5d6e3138c7c" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Bahamut" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h3181960bg435cg2615g01fag2a1e91fd2929" version="4" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Bahamut" />
+					<attribute id="Description" type="TranslatedString" handle="h37b03974gaf40gae1bg9db3ge68445bf1729" version="4" />
+					<attribute id="MaterialPreset" type="guid" value="1df15f57-4e57-3719-8ce2-3199793b72c6" />
+					<attribute id="ColorPreset" type="guid" value="1df15f57-4e57-3719-8ce2-3199793b72c6" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

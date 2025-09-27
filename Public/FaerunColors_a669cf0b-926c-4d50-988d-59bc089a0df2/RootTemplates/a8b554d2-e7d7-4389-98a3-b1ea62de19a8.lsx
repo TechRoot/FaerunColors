@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="a8b554d2-e7d7-4389-98a3-b1ea62de19a8" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Eltesh" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h506640d4ge2c7g6737gdc70gbd874a55c472" version="4" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Eltesh" />
+					<attribute id="Description" type="TranslatedString" handle="h0e53a481g8133g1e9bg54c8g7182ff5258c0" version="4" />
+					<attribute id="MaterialPreset" type="guid" value="88eed8f9-affd-2702-8a19-bc5cb9e1d5b2" />
+					<attribute id="ColorPreset" type="guid" value="88eed8f9-affd-2702-8a19-bc5cb9e1d5b2" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

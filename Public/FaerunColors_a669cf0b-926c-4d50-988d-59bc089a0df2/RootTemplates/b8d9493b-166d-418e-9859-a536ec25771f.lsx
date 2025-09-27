@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="b8d9493b-166d-418e-9859-a536ec25771f" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Lolth" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h718269ceg1955g75b7g61f5gb1db38959931" version="5" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Lloth" />
+					<attribute id="Description" type="TranslatedString" handle="hfe068b36g9f8dga9d1geffbg6b85971809e6" version="5" />
+					<attribute id="MaterialPreset" type="guid" value="b05a31f1-0135-1817-5b0d-75828e433d69" />
+					<attribute id="ColorPreset" type="guid" value="b05a31f1-0135-1817-5b0d-75828e433d69" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="a5086ddb-53a3-4b68-8be0-63b2029c03cf" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Garl" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hbfe53b87ga272gd8aag1bbcge34fe2b57488" version="4" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Garl" />
+					<attribute id="Description" type="TranslatedString" handle="hd559804agf684g4502gf913g5f9e3692dbb0" version="4" />
+					<attribute id="MaterialPreset" type="guid" value="449b1886-38c1-0b83-2c73-3d3f66e9816c" />
+					<attribute id="ColorPreset" type="guid" value="449b1886-38c1-0b83-2c73-3d3f66e9816c" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

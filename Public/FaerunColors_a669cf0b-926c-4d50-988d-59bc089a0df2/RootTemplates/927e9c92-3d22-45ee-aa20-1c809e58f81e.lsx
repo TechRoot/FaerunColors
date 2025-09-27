@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="927e9c92-3d22-45ee-aa20-1c809e58f81e" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Oghma" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc88b7e00g10aeg7063ge684g018c6b82aaaa" version="4" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Oghma" />
+					<attribute id="Description" type="TranslatedString" handle="h3e36fd94g8014gc0bfg6c37g2f7b24328ab5" version="4" />
+					<attribute id="MaterialPreset" type="guid" value="fc78e2da-39b0-6730-fbdc-0f1740c413c8" />
+					<attribute id="ColorPreset" type="guid" value="fc78e2da-39b0-6730-fbdc-0f1740c413c8" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
