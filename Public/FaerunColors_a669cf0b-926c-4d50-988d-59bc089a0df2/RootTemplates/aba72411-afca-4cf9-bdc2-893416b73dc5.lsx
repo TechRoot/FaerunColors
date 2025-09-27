@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="aba72411-afca-4cf9-bdc2-893416b73dc5" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Grazzt" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h5d7dad8bg960cg624fgcb01g9e4bb972f388" version="4" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Grazzt" />
+					<attribute id="Description" type="TranslatedString" handle="h33c2d23ag8f76g8992gc417g989240909cbd" version="4" />
+					<attribute id="MaterialPreset" type="guid" value="d91dd6ca-636b-f038-edf6-bb69d83c6838" />
+					<attribute id="ColorPreset" type="guid" value="d91dd6ca-636b-f038-edf6-bb69d83c6838" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

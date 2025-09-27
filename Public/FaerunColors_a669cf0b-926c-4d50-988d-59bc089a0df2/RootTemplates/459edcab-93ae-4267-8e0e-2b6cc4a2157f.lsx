@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="459edcab-93ae-4267-8e0e-2b6cc4a2157f" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Ilsensine" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb436ff2fg7442gdaf6ge5f0gc0c5b9b4f2e1" version="1" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Ilsensine" />
+					<attribute id="Description" type="TranslatedString" handle="h88027129g5b9dgcb61gbf46g002c45599daf" version="1" />
+					<attribute id="MaterialPreset" type="guid" value="e73ca4cb-f293-cb3e-8e2c-0299cf63b404" />
+					<attribute id="ColorPreset" type="guid" value="e73ca4cb-f293-cb3e-8e2c-0299cf63b404" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

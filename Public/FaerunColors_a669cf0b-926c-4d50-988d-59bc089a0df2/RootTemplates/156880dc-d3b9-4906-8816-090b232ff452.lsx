@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="156880dc-d3b9-4906-8816-090b232ff452" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Emperor" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h843f40f8g5247gd508g7b9cga979f11447d9" version="1" />
+					<attribute id="IsPointerBlocker" type="bool" value="True" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Emperor" />
+					<attribute id="Description" type="TranslatedString" handle="h700240f4g80c9g4b0cg4faeg1bc8d153b33f" version="1" />
+					<attribute id="MaterialPreset" type="guid" value="b6aedce5-41e0-cd8b-7c32-99f20e424af4" />
+					<attribute id="ColorPreset" type="guid" value="b6aedce5-41e0-cd8b-7c32-99f20e424af4" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

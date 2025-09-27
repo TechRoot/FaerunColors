@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="f68ecdc5-25d7-45b6-97b1-fb5cd96ca18b" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Zariel" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hcce4ebe3g14f1g9a2bg5790g5e39bca9a261" version="1" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Zariel" />
+					<attribute id="Description" type="TranslatedString" handle="hdda40280gd943gfa54g6326g9d6b90073f43" version="1" />
+					<attribute id="MaterialPreset" type="guid" value="3bc3966d-b218-5b2d-078f-6de643d54c36" />
+					<attribute id="ColorPreset" type="guid" value="3bc3966d-b218-5b2d-078f-6de643d54c36" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

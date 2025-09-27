@@ -1,12 +1,12 @@
-# Texto (normaliza LF)
-*.txt text=auto eol=lf
-*.xml text eol=lf
-*.lsx text eol=lf
-*.colors text eol=lf
-*.stats text eol=lf
-*.json text eol=lf
-*.csv text eol=lf
-*.md text eol=lf
+# Texto (normaliza crlf)
+*.txt text=auto eol=crlf
+*.xml text eol=crlf
+*.lsx text eol=crlf
+*.colors text eol=crlf
+*.stats text eol=crlf
+*.json text eol=crlf
+*.csv text eol=crlf
+*.md text eol=crlf
 
 # Binarios (sin diff)
 *.lsf binary

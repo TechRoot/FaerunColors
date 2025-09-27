@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="ab432715-41aa-4b82-ab83-90a18060a5ec" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Karlach" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hf3c6f722g3983g038dgb81ag8bab67b816ca" version="2" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Karlach" />
+					<attribute id="Description" type="TranslatedString" handle="h1174d0cagdae4g96bbg21f9g1068e76d858b" version="2" />
+					<attribute id="MaterialPreset" type="guid" value="6c82d784-8850-16c3-cd5b-38e515d826cc" />
+					<attribute id="ColorPreset" type="guid" value="6c82d784-8850-16c3-cd5b-38e515d826cc" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

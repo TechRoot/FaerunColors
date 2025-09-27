@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="df3fed23-f42f-4ba2-bed3-da473eaf9f41" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Misruled" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h3fc68d9cg1138g568dg76b9g6eb079e67c62" version="4" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Misruled" />
+					<attribute id="Description" type="TranslatedString" handle="h67863536g33ddg966dg3352g71dded593499" version="4" />
+					<attribute id="MaterialPreset" type="guid" value="a377f404-1558-8aea-8eed-ea77656d5b72" />
+					<attribute id="ColorPreset" type="guid" value="a377f404-1558-8aea-8eed-ea77656d5b72" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="8e937ad0-fdcf-49c1-8741-4e7173752c05" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Lathander" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc32fcbc5g7503g2f54gd187ga345016c945c" version="4" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Lathander" />
+					<attribute id="Description" type="TranslatedString" handle="hd713ec7eg9649g7b23g90b9gb59a1d7c9fcb" version="4" />
+					<attribute id="MaterialPreset" type="guid" value="08a6e235-fc50-3c1c-7932-24ff46efee5a" />
+					<attribute id="ColorPreset" type="guid" value="08a6e235-fc50-3c1c-7932-24ff46efee5a" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

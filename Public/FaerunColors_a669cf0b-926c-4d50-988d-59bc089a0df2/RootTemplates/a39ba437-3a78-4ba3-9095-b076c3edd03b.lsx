@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="a39ba437-3a78-4ba3-9095-b076c3edd03b" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Hestia" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h487c9972gcdf1geb81gf2c6g3770c5b81614" version="3" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Hestia" />
+					<attribute id="Description" type="TranslatedString" handle="h2ffde587g63bcg7e3fg675agd5f818f3bd02" version="3" />
+					<attribute id="MaterialPreset" type="guid" value="55490218-f9c8-08a4-b40a-1acd6d2b5a8b" />
+					<attribute id="ColorPreset" type="guid" value="55490218-f9c8-08a4-b40a-1acd6d2b5a8b" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

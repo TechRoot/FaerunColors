@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="400" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="3b0b5efe-4bd7-4d67-8d12-6ce516811845" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Torm" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h24166708gb5e1g3a93g45cdgbf0f7ca9a198" version="2" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Torm" />
+					<attribute id="Description" type="TranslatedString" handle="h6d2b104bgccc2g466bg4506g59e412446637" version="2" />
+					<attribute id="MaterialPreset" type="guid" value="de41584f-1973-1e3f-4ccc-244767338146" />
+					<attribute id="ColorPreset" type="guid" value="de41584f-1973-1e3f-4ccc-244767338146" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

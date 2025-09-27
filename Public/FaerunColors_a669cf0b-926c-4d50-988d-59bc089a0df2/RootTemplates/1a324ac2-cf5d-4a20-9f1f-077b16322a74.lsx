@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="1a324ac2-cf5d-4a20-9f1f-077b16322a74" />
+					<attribute id="Name" type="LSString" value="FC_DYE_Tymora" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a750a66-e5c2-40be-9f62-0a4bf3ddb403" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc5788e36ge210g5a97g2f3bg0cce04d84660" version="6" />
+					<attribute id="Icon" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Tymora" />
+					<attribute id="Description" type="TranslatedString" handle="he5fd0e59g6f7dg79c8ge99eg7519368b9220" version="6" />
+					<attribute id="MaterialPreset" type="guid" value="b06e5db4-56d0-d4cc-3267-3b3eeff47a42" />
+					<attribute id="ColorPreset" type="guid" value="b06e5db4-56d0-d4cc-3267-3b3eeff47a42" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
