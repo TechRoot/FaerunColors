@@ -694,6 +694,16 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="d03c8fd6-c390-4f28-a7a9-facd779c3453" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2a5e1927-ad3b-4aa6-86ef-f2b4db537d7e" />
+        <field name="Name" type="NameTableFieldDefinition" value="FCTT_Item_Bag_substat_54" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_FC_OBJ_DYE_Minthara" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d03c8fd6-c390-4f28-a7a9-facd779c3453" />
         <field name="UUID" type="IdTableFieldDefinition" value="b680df45-d5d6-43eb-a25a-bfe4f0b46ea0" />
         <field name="Name" type="NameTableFieldDefinition" value="d03c8fd6-c390-4f28-a7a9-facd779c3453_substat_13" />
         <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
@@ -1108,6 +1118,56 @@
         <field name="Name" type="NameTableFieldDefinition" value="FCTT_Item_Bag_Com_substat_16" />
         <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_FC_OBJ_DYE_Evereska" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2e1bb1ad-f4f8-4987-8658-fa658e99a69a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6b2a9ecf-ff76-47c7-b611-f4d0501beae4" />
+        <field name="Name" type="NameTableFieldDefinition" value="FCTT_Item_Bag_Com_substat_17" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_FC_OBJ_DYE_Yeenoghu" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2e1bb1ad-f4f8-4987-8658-fa658e99a69a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a3cf5cd3-5a40-4dd9-9e7f-cf547c64ef1a" />
+        <field name="Name" type="NameTableFieldDefinition" value="FCTT_Item_Bag_Com_substat_18" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_FC_OBJ_DYE_Sardior" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2e1bb1ad-f4f8-4987-8658-fa658e99a69a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ca8458c4-11dd-4fab-a4a6-ea1a7e7c5e96" />
+        <field name="Name" type="NameTableFieldDefinition" value="FCTT_Item_Bag_Com_substat_19" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_FC_OBJ_DYE_HeartWarder" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2e1bb1ad-f4f8-4987-8658-fa658e99a69a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a7b16417-9742-4b99-8bbb-ab9fb105778e" />
+        <field name="Name" type="NameTableFieldDefinition" value="FCTT_Item_Bag_Com_substat_20" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_FC_OBJ_DYE_JoyBringer" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2e1bb1ad-f4f8-4987-8658-fa658e99a69a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e790653d-097e-4ad8-825b-1c5c868840b6" />
+        <field name="Name" type="NameTableFieldDefinition" value="FCTT_Item_Bag_Com_substat_21" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_FC_OBJ_DYE_Titania" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>

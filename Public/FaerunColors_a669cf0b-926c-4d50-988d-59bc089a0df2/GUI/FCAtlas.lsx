@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="8" revision="0" build="400"/>
+    <version major="4" minor="8" revision="0" build="500"/>
     <region id="IconUVList">
         <node id="root">
             <children>
@@ -292,6 +292,13 @@
                     <attribute id="V2" type="float" value="0.12475586"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_HeartWarder"/>
+                    <attribute id="U1" type="float" value="0.53149414"/>
+                    <attribute id="U2" type="float" value="0.56225586"/>
+                    <attribute id="V1" type="float" value="0.093994141"/>
+                    <attribute id="V2" type="float" value="0.12475586"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Helm"/>
                     <attribute id="U1" type="float" value="0.21899414"/>
                     <attribute id="U2" type="float" value="0.24975586"/>
@@ -339,6 +346,13 @@
                     <attribute id="U2" type="float" value="0.90600586"/>
                     <attribute id="V1" type="float" value="0.00024414062"/>
                     <attribute id="V2" type="float" value="0.031005859"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_JoyBringer"/>
+                    <attribute id="U1" type="float" value="0.50024414"/>
+                    <attribute id="U2" type="float" value="0.53100586"/>
+                    <attribute id="V1" type="float" value="0.093994141"/>
+                    <attribute id="V2" type="float" value="0.12475586"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Karlach"/>
@@ -444,6 +458,13 @@
                     <attribute id="U2" type="float" value="0.21850586"/>
                     <attribute id="V1" type="float" value="0.062744141"/>
                     <attribute id="V2" type="float" value="0.093505859"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Minthara"/>
+                    <attribute id="U1" type="float" value="0.40649414"/>
+                    <attribute id="U2" type="float" value="0.43725586"/>
+                    <attribute id="V1" type="float" value="0.093994141"/>
+                    <attribute id="V2" type="float" value="0.12475586"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Misruled"/>
@@ -558,6 +579,13 @@
                     <attribute id="V2" type="float" value="0.093505859"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Sardior"/>
+                    <attribute id="U1" type="float" value="0.43774414"/>
+                    <attribute id="U2" type="float" value="0.46850586"/>
+                    <attribute id="V1" type="float" value="0.093994141"/>
+                    <attribute id="V2" type="float" value="0.12475586"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Sashelas"/>
                     <attribute id="U1" type="float" value="0.96899414"/>
                     <attribute id="U2" type="float" value="0.99975586"/>
@@ -656,6 +684,13 @@
                     <attribute id="V2" type="float" value="0.062255859"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Titania"/>
+                    <attribute id="U1" type="float" value="0.56274414"/>
+                    <attribute id="U2" type="float" value="0.59350586"/>
+                    <attribute id="V1" type="float" value="0.093994141"/>
+                    <attribute id="V2" type="float" value="0.12475586"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Torm"/>
                     <attribute id="U1" type="float" value="0.34399414"/>
                     <attribute id="U2" type="float" value="0.37475586"/>
@@ -729,6 +764,13 @@
                     <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Wyll"/>
                     <attribute id="U1" type="float" value="0.25024414"/>
                     <attribute id="U2" type="float" value="0.28100586"/>
+                    <attribute id="V1" type="float" value="0.093994141"/>
+                    <attribute id="V2" type="float" value="0.12475586"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Yeenoghu"/>
+                    <attribute id="U1" type="float" value="0.46899414"/>
+                    <attribute id="U2" type="float" value="0.49975586"/>
                     <attribute id="V1" type="float" value="0.093994141"/>
                     <attribute id="V2" type="float" value="0.12475586"/>
                 </node>
