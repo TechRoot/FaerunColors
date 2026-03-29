@@ -1348,3 +1348,15 @@ data "DyeColorPresetResource" "59840224-08d3-5c61-6901-1209006ccc1a"
 new ItemCombinationResult "ITEM_DYE_FC_Titania_1"
 data "ResultAmount 1" "1"
 
+new ItemCombination "ITEM_DYE_FC_GoldenLady"
+data "Type 1" "Object"
+data "Object 1" "FC_OBJ_DYE_GoldenLady"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "030db5bd-85ad-01ed-dcc7-b558f7da82fb"
+
+new ItemCombinationResult "ITEM_DYE_FC_GoldenLady_1"
+data "ResultAmount 1" "1"
+
