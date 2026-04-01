@@ -1171,6 +1171,16 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2e1bb1ad-f4f8-4987-8658-fa658e99a69a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="56ec4bd0-b3f7-4349-b3ee-b17d29f5886e" />
+        <field name="Name" type="NameTableFieldDefinition" value="FCTT_Item_Bag_Com_substat_22" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="-1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_FC_OBJ_DYE_Vengeance" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="fe0cfb8d-f533-4dc8-af3a-cf277be2af3b" />

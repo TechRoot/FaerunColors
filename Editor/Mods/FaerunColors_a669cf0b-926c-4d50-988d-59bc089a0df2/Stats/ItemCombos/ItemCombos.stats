@@ -1569,5 +1569,19 @@
         <field name="DyeColorPresetResource" type="FixedStringTableFieldDefinition" value="59840224-08d3-5c61-6901-1209006ccc1a" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9dc1e6f6-9562-43cf-b618-10754a792a00" />
+        <field name="Name" type="NameTableFieldDefinition" value="ITEM_DYE_FC_Vengeance" />
+        <field name="Type 1" type="EnumerationTableFieldDefinition" value="Object" enumeration_type_name="IngredientType" version="1" />
+        <field name="Object 1" type="StringTableFieldDefinition" value="FC_OBJ_DYE_Vengeance" />
+        <field name="Transform 1" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="IngredientTransformType" version="1" />
+        <field name="Type 2" type="EnumerationTableFieldDefinition" value="Category" enumeration_type_name="IngredientType" version="1" />
+        <field name="Object 2" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Transform 2" type="EnumerationTableFieldDefinition" value="Dye" enumeration_type_name="IngredientTransformType" version="1" />
+        <field name="ResultAmount 1" type="IntegerTableFieldDefinition" value="1" />
+        <field name="DyeColorPresetResource" type="FixedStringTableFieldDefinition" value="030db5bd-85ad-01ed-dcc7-b558f7da82fb" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
