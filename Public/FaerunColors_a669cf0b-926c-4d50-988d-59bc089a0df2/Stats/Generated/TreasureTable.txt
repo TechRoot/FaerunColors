@@ -243,6 +243,8 @@ new subtable "-1"
 object category "I_FC_OBJ_DYE_Titania",1,0,0,0,0,0,0,0
 new subtable "-1"
 object category "I_FC_OBJ_DYE_GoldenLady",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_FC_OBJ_DYE_Vengeance",1,0,0,0,0,0,0,0
 new treasuretable "DEN_Entrance_Trade"
 CanMerge 1
 new subtable "1,1"
