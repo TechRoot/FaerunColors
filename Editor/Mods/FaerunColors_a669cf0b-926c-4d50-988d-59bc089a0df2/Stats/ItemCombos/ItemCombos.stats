@@ -1580,7 +1580,7 @@
         <field name="Object 2" type="StringTableFieldDefinition" value="DyableArmor" />
         <field name="Transform 2" type="EnumerationTableFieldDefinition" value="Dye" enumeration_type_name="IngredientTransformType" version="1" />
         <field name="ResultAmount 1" type="IntegerTableFieldDefinition" value="1" />
-        <field name="DyeColorPresetResource" type="FixedStringTableFieldDefinition" value="030db5bd-85ad-01ed-dcc7-b558f7da82fb" />
+        <field name="DyeColorPresetResource" type="FixedStringTableFieldDefinition" value="2cf244d0-edc3-0c79-90eb-fdb470ac7b7e" />
       </fields>
     </stat_object>
   </stat_objects>

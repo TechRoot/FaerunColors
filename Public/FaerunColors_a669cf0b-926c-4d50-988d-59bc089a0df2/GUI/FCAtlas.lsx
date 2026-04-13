@@ -733,6 +733,13 @@
                     <attribute id="V2" type="float" value="0.031005859"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Vengeance"/>
+                    <attribute id="U1" type="float" value="0.59399414"/>
+                    <attribute id="U2" type="float" value="0.62475586"/>
+                    <attribute id="V1" type="float" value="0.093994141"/>
+                    <attribute id="V2" type="float" value="0.12475586"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="CRS_FaerunColors_Icon_Dye_Venus"/>
                     <attribute id="U1" type="float" value="0.031494141"/>
                     <attribute id="U2" type="float" value="0.062255859"/>
