@@ -29,10 +29,10 @@
                     <attribute id="Author" type="LSString" value="TechRoot"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSString" value="Adds more than 120+ complementary dyes with infinite uses and custom icons to game, based on deities and famous entities from Faerun."/>
-                    <attribute id="FileSize" type="uint64" value="18116160"/>
+                    <attribute id="FileSize" type="uint64" value="18324609"/>
                     <attribute id="Folder" type="LSString" value="FaerunColors_a669cf0b-926c-4d50-988d-59bc089a0df2"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="6283aa5c293daed7a016e37d871cae17"/>
+                    <attribute id="MD5" type="LSString" value="a6dc135bc41e05a6e31e3f8552a4612e"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="FaerunColors"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -40,7 +40,7 @@
                     <attribute id="PublishHandle" type="uint64" value="4122086"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="a669cf0b-926c-4d50-988d-59bc089a0df2"/>
-                    <attribute id="Version64" type="int64" value="36873236981481478"/>
+                    <attribute id="Version64" type="int64" value="36873236981481479"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717156327"/>
