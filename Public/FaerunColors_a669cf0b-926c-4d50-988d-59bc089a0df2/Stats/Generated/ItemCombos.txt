@@ -1372,3 +1372,27 @@ data "DyeColorPresetResource" "2cf244d0-edc3-0c79-90eb-fdb470ac7b7e"
 new ItemCombinationResult "ITEM_DYE_FC_Vengeance_1"
 data "ResultAmount 1" "1"
 
+new ItemCombination "ITEM_DYE_FC_Wayfarer"
+data "Type 1" "Object"
+data "Object 1" "FC_OBJ_DYE_Wayfarer"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "daa2c167-a98f-4f1b-a0da-ebf05dd41fc7"
+
+new ItemCombinationResult "ITEM_DYE_FC_Wayfarer_1"
+data "ResultAmount 1" "1"
+
+new ItemCombination "ITEM_DYE_FC_Tasha"
+data "Type 1" "Object"
+data "Object 1" "FC_OBJ_DYE_Tasha"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "b567593c-2c8a-8bea-77e8-69cd318d5994"
+
+new ItemCombinationResult "ITEM_DYE_FC_Tasha_1"
+data "ResultAmount 1" "1"
+

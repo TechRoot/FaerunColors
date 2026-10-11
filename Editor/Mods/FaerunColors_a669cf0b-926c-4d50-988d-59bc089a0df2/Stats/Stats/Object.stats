@@ -1396,6 +1396,30 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="040d53d9-cf19-4700-892b-8db2a0d1f23b" />
+        <field name="Name" type="NameTableFieldDefinition" value="FC_OBJ_DYE_Wayfarer" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7180091c-71cf-48b2-ab20-5249ff004a58" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="bff51916-5f6e-41de-9185-bc3a35118770" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="0" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="88278927-a733-4547-9889-00986193f501" />
+        <field name="Name" type="NameTableFieldDefinition" value="FC_OBJ_DYE_Tasha" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7180091c-71cf-48b2-ab20-5249ff004a58" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5b5a11f1-7e32-451d-9b73-a87acf7e1d02" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="0" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="08b5c023-1130-4a5c-b5cc-be42356f6048" />
         <field name="Name" type="NameTableFieldDefinition" value="FC_OBJ_Note01" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="de4fca29-94de-4404-b23e-be9775941fba" />
